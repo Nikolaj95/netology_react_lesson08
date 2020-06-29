@@ -22,3 +22,31 @@ useeffect/npm-debug.log*
 useeffect/yarn-debug.log*
 useeffect/yarn-error.log*
 useeffect/.idea
+
+
+# dependencies
+usejsonfetch/node_modules
+usejsonfetch/.pnp
+usejsonfetch/.pnp.js
+
+
+usejsonfetch/backend/node_modules
+
+
+# testing
+usejsonfetch/coverage
+
+# production
+usejsonfetch/build
+
+# misc
+usejsonfetch/.DS_Store
+usejsonfetch/.env.local
+usejsonfetch/.env.development.local
+usejsonfetch/.env.test.local
+usejsonfetch/.env.production.local
+
+usejsonfetch/npm-debug.log*
+usejsonfetch/yarn-debug.log*
+usejsonfetch/yarn-error.log*
+usejsonfetch/.idea
