@@ -1,0 +1,24 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+useeffect/node_modules
+useeffect/.pnp
+useeffect/.pnp.js
+
+# testing
+useeffect/coverage
+
+# production
+useeffect/build
+
+# misc
+useeffect/.DS_Store
+useeffect/.env.local
+useeffect/.env.development.local
+useeffect/.env.test.local
+useeffect/.env.production.local
+
+useeffect/npm-debug.log*
+useeffect/yarn-debug.log*
+useeffect/yarn-error.log*
+useeffect/.idea
